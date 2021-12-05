@@ -18,8 +18,8 @@
 ![SMOTE Oversampling](Resources/SMOTE_Oversampling.png)
 
   * balanced accuracy score = 0.65
-  * precision score: 1%
-  * recall score: 63%
+  * precision score: 1% for high-risk loans, 100% for low-risk loans
+  * recall score: 63% for high-risk loans, 67% for low-risk loans
  
 3) Cluster Centroids
 
