@@ -5,7 +5,7 @@
 
 ## Results: 
 
-1) Naive Random Oversampling:SMOT
+1) Naive Random Oversampling:
 
 ![Naive Random Oversampling](Resources/Naive_Random_Oversampling.png)
   
