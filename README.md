@@ -42,7 +42,7 @@
 ![Balanced Random Forest Classifier](Resources/Balanced_Random_Forest_Classifier.png)
 
   * balanced accuracy score = 0.79
-  * precision score: 4%
+  * precision score: 4% for high-risk loans, 100% for low-risk loans
   * recall score: 67% for high-risk loans, 91% for low-risk loans 
 
 6) Easy Ensemble AdaBoost Classifier
@@ -50,9 +50,8 @@
 ![Easy Ensemble AdaBoost Classifier](Resources/Easy_Ensemble_AdaBoost_Classifier.png)
 
   * balanced accuracy score = 0.93
-  * precision score: 7%
+  * precision score: 7% for high-risk loans, 100% for low-risk loans
   * recall score: 91% for high-risk loans, 94% for low-risk loans 
+
 ## Summary:
-  All of the data models utilized exhibited low precision when determining if credit risk would be high. 
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
-  
+  All of the data models utilized exhibited low precision when determining if credit risk would be high. All the data models exhibited high precision when determining if credit risk would be low. The model with the greatest precision score was the Easy Ensemble AdaBoost Classifier Model. The model with the highest balanced accuracy score was the Easy Ensemble AdaBoost Classifier Model. The model which exhibited the highest recall score for high-risk loans was also the Easy Ensemble AdaBoost Classifier Model. Based on the results, where the Easy Ensemble AdaBoost Classifier Model scored the highest in all categories used to determine accuracy, precision, and sensitivity, I would utilize the Easy Ensemble AdaBoost Classifier Model in future analyses. 
