@@ -43,7 +43,7 @@
 
   * balanced accuracy score = 0.79
   * precision score: 4%
-  * recall score: 67%
+  * recall score: 67% for high-risk loans, 91% for low-risk loans 
 
 6) Easy Ensemble AdaBoost Classifier
 
@@ -51,7 +51,7 @@
 
   * balanced accuracy score = 0.93
   * precision score: 7%
-  * recall score: 91%
+  * recall score: 91% for high-risk loans, 94% for low-risk loans 
 ## Summary:
   All of the data models utilized exhibited low precision when determining if credit risk would be high. 
 There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
