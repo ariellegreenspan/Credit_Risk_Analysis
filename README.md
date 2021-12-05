@@ -26,8 +26,8 @@
 ![Cluster Centroids](Resources/Cluster_Centroids.png)
 
   * balanced accuracy score = 0.53
-  * precision score: 1%
-  * recall score: 61%
+  * precision score: 1% for high-risk loans, 100% for low-risk loans
+  * recall score: 61% for high-risk loans, 45% for low-risk loans
 
 4) SMOTEEN:
 
