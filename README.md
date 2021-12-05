@@ -52,4 +52,7 @@
   * balanced accuracy score = 0.93
   * precision score: 7%
   * recall score: 91%
+## Summary:
+  All of the data models utilized exhibited low precision when determining if credit risk would be high. 
+There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
   
