@@ -41,8 +41,8 @@
 ![Balanced Random Forest Classifier](Resources/Balanced_Random_Forest_Classifier.png)
 
   * balanced accuracy score = 0.79
-  * precision score:
-  * recall score:
+  * precision score: 4%
+  * recall score: 67%
 
 6) Easy Ensemble AdaBoost Classifier
 
