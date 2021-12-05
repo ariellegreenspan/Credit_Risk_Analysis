@@ -34,8 +34,8 @@
 ![SMOTEEN](Resources/SMOTEEN.png)
 
   * balanced accuracy score = 0.64
-  * precision score: 1%
-  * recall score: 70%
+  * precision score: 1% for high-risk loans, 100% for low-risk loans
+  * recall score: 70% for high-risk loans, 57% for low-risk loans
 
 5) Balanced Random Forest Classifier
 
