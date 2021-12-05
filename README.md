@@ -17,16 +17,16 @@
 ![SMOTE Oversampling](Resources/SMOTE_Oversampling.png)
 
   * balanced accuracy score = 0.65
-  * precision score:
-  * recall score:
+  * precision score: 1%
+  * recall score: 63%
  
 3) Cluster Centroids
 
 ![Cluster Centroids](Resources/Cluster_Centroids.png)
 
   * balanced accuracy score = 0.53
-  * precision score:
-  * recall score:
+  * precision score: 1%
+  * recall score: 64%
 
 4) SMOTEEN:
 
