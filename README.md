@@ -1,10 +1,11 @@
 # Credit_Risk_Analysis
 
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis: 
+  The purpose of this analysis is to determine credit risk of the loan data utilizing different sampling and machine-learning models, including Random Oversampling, SMOTE Oversampling, Cluster Centroids, SMOTEEN, Balanced Forest Random Classifier, and Easy Ensemble AdaBoost Classifier.  
 
 ## Results: 
 
-1) Naive Random Oversampling:
+1) Naive Random Oversampling:SMOT
 
 ![Naive Random Oversampling](Resources/Naive_Random_Oversampling.png)
   
