@@ -9,8 +9,8 @@
 ![Naive Random Oversampling](Resources/Naive_Random_Oversampling.png)
   
   * balanced accuracy score = 0.65
-  * precision score:
-  * recall score:
+  * precision score: 1%
+  * recall score: 63%
 
 2) SMOTE Oversampling:
 
