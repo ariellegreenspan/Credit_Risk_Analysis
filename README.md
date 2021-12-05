@@ -49,6 +49,6 @@
 ![Easy Ensemble AdaBoost Classifier](Resources/Easy_Ensemble_AdaBoost_Classifier.png)
 
   * balanced accuracy score = 0.93
-  * precision score:
-  * recall score:
+  * precision score: 7%
+  * recall score: 91%
   
