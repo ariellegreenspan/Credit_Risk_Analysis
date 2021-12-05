@@ -26,15 +26,15 @@
 
   * balanced accuracy score = 0.53
   * precision score: 1%
-  * recall score: 64%
+  * recall score: 61%
 
 4) SMOTEEN:
 
 ![SMOTEEN](Resources/SMOTEEN.png)
 
   * balanced accuracy score = 0.64
-  * precision score:
-  * recall score:
+  * precision score: 1%
+  * recall score: 70%
 
 5) Balanced Random Forest Classifier
 
